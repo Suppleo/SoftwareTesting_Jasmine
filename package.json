@@ -1,0 +1,17 @@
+{
+  "name": "softwaretesting_jasmine",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jasmine",
+    "test:verbose": "jasmine --reporter=jasmine-console-reporter"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "jasmine": "^6.1.0"
+  }
+}
